@@ -3,7 +3,7 @@
 * All designs, including the logo, belong to me.
 * I used nosql for database operations
 
-## [Try it](https://meteahmetyakar.github.io/#bookingsystem)
+## [Try it](https://meteahmetyakar.github.io/vet-booking-system/)
 
 <p align="center">
   <img src="https://github.com/meteahmetyakar/knocomy/blob/main/gameplay.gif" width="360" height="760" /> 
