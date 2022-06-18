@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="btnColor">#C45D9FC5</color>
+    <color name="reservedColor">#C46B777E</color>
+    <color name="selectedColor">#C4184763</color>
+</resources>
