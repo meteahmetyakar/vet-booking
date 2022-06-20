@@ -2,6 +2,7 @@
 * A vet booking system which developed using android studio and java
 * All designs, including the logo, belong to me.
 * I used nosql for database operations
+* bookingsystem file is android studio project file, you can using directly
 
 ## [Try it](https://meteahmetyakar.github.io/vet-booking/)
 
